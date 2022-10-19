@@ -1,0 +1,28 @@
+{
+  "name": "turkish-dictionary",
+  "version": "1.0.0",
+  "description": "Simplified Turkish dictionary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theavoid/turkish-dictionary.git"
+  },
+  "keywords": [
+    "sözlük",
+    "türkçe",
+    "türkçe",
+    "sözlük"
+  ],
+  "author": "theavoid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theavoid/turkish-dictionary/issues"
+  },
+  "homepage": "https://github.com/theavoid/turkish-dictionary#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
